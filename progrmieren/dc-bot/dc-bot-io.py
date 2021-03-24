@@ -20,4 +20,4 @@ class process():
             return launch("random",continp)
         return "unknown command: "+str(cmdinp)
 client = botclient()
-client.run("ODIzOTE1OTE0MzM5OTQyNDUy.YFnxfQ.vgvHYM-kdyRVnh2MTnGiGcHeUxU")
+client.run("")
